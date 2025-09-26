@@ -1,0 +1,6 @@
+{
+  "private": {
+    "MONIEPOINT_API_KEY": "your-api-key-here",
+    "MONIEPOINT_SECRET": "your-secret-here"
+  }
+}
